@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="array_tech">
+        <item>Android</item>
+        <item>Java</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>Javascript</item>
+        <item>C#</item>
+        <item>Cascading Style Sheets</item>
+        <item>HTML</item>
+        <item>Go</item>
+        <item>Node.js</item>
+        <item>Bootstrap</item>
+        <item>MySQL</item>
+        <item>R</item>
+        <item>Scala</item>
+        <item>XML</item>
+    </string-array>
+</resources>

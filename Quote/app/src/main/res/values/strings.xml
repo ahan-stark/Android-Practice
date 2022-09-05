@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="quote1">Stay Hunger,Stay Foolish \n -Steve Jobs</string>
+    <string name="quote2">Your love makes me strong, your hate makes me unstoppable \n -Cristiano Ronaldo</string>
+    <string name="quote3">Life has no limitations, except the ones you make \n -Les Brown </string>
+    <string name="quote4">Only dead fish go with the flow \n -Andy Hunt</string>
+    <string name="quote5">It is possible for ordinary people to choose to be extraordinary \n -Elon Musk</string>
+    <string name="quote6">The way to get started is to quit talking and begin doing \n -Walt Disney</string>
+    <string name="quote7">Life is what happens when you\'re busy making other plans \n -John Lennon</string>
+    <string name="quote8">The future belongs to those who believe in the beauty of their dreams \n -Eleanor Roosevelt</string>
+</resources>
